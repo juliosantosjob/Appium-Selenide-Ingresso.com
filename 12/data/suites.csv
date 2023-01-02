@@ -1,6 +1,0 @@
-"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Wed Dec 28 14:03:55 GMT 2022","Wed Dec 28 14:04:37 GMT 2022","41738","","App search function","","Search for a movie","","Search for a movie",""
-"passed","Wed Dec 28 14:03:17 GMT 2022","Wed Dec 28 14:03:55 GMT 2022","37983","","App search function","","App version","","App version",""
-"passed","Wed Dec 28 14:06:10 GMT 2022","Wed Dec 28 14:07:00 GMT 2022","50273","","App search function","","Search movie duration","","Search movie duration",""
-"passed","Wed Dec 28 14:05:20 GMT 2022","Wed Dec 28 14:06:10 GMT 2022","49313","","App search function","","Search for a movie","","Search for a movie",""
-"passed","Wed Dec 28 14:04:37 GMT 2022","Wed Dec 28 14:05:20 GMT 2022","43115","","App search function","","Search for a movie","","Search for a movie",""
